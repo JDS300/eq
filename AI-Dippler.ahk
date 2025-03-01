@@ -1,6 +1,6 @@
 ﻿; === CONFIGURATION ===
 ; Log file path is fixed.
-logFilePath := "C:\Games\EverQuest\Logs\eqlog_Dippler_teek.txt"
+logFilePath := "C:\Games\EverQuest\Logs\eqlog_Toon_server.txt"
 
 ; --- Debugging: Check if the file exists ---
 if !FileExist(logFilePath)
